@@ -37,6 +37,8 @@ imgui.ini
 /videos
 /examples/benchmarking/videos
 
+/hyperppo/runs
+
 # benchmarking
 /benchmark_results
 /mani_skill/examples/benchmarking/benchmark_results
