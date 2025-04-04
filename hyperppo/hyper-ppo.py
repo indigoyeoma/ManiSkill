@@ -22,7 +22,7 @@ from mani_skill.utils.wrappers.record import RecordEpisode
 from mani_skill.vector.wrappers.gymnasium import ManiSkillVectorEnv
 
 # HyperPPO-specific import: Graph HyperNetwork-based actor
-from swa_model.core import hyperActor  # <-- reference to your HyperPPO code
+from model.core import hyperActor  # <-- reference to your HyperPPO code
 
 @dataclass
 class Args:
